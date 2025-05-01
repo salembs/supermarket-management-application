@@ -1,1 +1,1 @@
-a GUI supermarket management application
+A GUI supermarket management application
